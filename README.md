@@ -13,12 +13,12 @@
 #  ● Adicionar webhook a um repositório;
 #  ● Atualizar uma webhook de um repositório
 
-Requisitos
+# Requisitos
 
-● .Net 6
-● Testes unitários
-● Dependency Injection
-● SOLID
-● API Rest (funcionando como camada anti-
-corrupção consumindo API externa)
-● Uso do swagger para documentação
+# ● .Net 6
+# ● Testes unitários
+# ● Dependency Injection
+# ● SOLID
+# ● API Rest (funcionando como camada anti-
+# corrupção consumindo API externa)
+# ● Uso do swagger para documentação
